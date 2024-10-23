@@ -10,3 +10,10 @@ Este es mi portafolio personal creado con **HTML**, **CSS**, **JavaScript** y **
 - **Galería**: Imágenes de proyectos y trabajos anteriores.
 - **Contacto**: Enlaces a redes sociales y formulario para enviarme un mensaje directamente.
 - **Diseño interactivo**: Implementación de animaciones y efectos interactivos al pasar el mouse sobre los íconos y secciones.
+## Tecnologías Utilizadas
+
+- **HTML5**: Estructura y contenido de la página.
+- **CSS3**: Diseño visual, incluyendo efectos, animaciones y layout responsivo.
+- **JavaScript**: Interactividad en la navegación entre secciones y efectos en los elementos.
+- **Flask**: Framework de Python utilizado para servir el contenido y manejar las rutas de la página.
+- **Swiper.js**: Librería de JavaScript utilizada para crear la sección de diapositivas y navegación suave entre secciones.
